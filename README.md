@@ -1,4 +1,4 @@
-# Case, fall 2019
+# Case, summer 2020
 ## Nettbureau AS
 
 Du skal ha mottatt en fil på e-post.
