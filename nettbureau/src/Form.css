@@ -1,0 +1,21 @@
+.form-wrapper {
+  margin: 50px 0 0 50px;
+}
+
+.input-field-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.input-field-container__input-field {
+  margin-right: 25px;
+}
+
+.submit-button {
+  margin-top: 25px;
+}
