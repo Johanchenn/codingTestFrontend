@@ -1,8 +1,5 @@
-# Case, summer 2020
-## Nettbureau AS
+Coding test from 2020-09-27
 
-Du skal ha mottatt en fil på e-post.
-Vennligst benytt denne for å få videre.
+Frontend written in React along with React Form Hooks, Material UI as libraries
 
-
-### Lykke til!
+To start project run command `npm run start` (if first time, run also `npm install`)
